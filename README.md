@@ -1,6 +1,6 @@
 ## Thiago Laet :man_technologist:
 
-My name is Thiago, I'm a 20 years old Computer Science student from Rio de Janeiro - Brazil 🇧🇷 who loves to develop new ideas that can be useful for people.
+My name is Thiago, I'm a 20 years old Computer Science student from Rio de Janeiro - Brazil 🇧🇷 who loves to develop new ideas that can be useful to people.
 
  - 📚 Studying Computer Science in Universidade Federal Fluminense.
  - 🌱 Learning more about Node and React.
