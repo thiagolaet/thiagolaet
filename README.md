@@ -17,7 +17,6 @@ My name is Thiago, I'm a 20 years old Computer Science student from Rio de Janei
 <code><img height="20" src="https://user-images.githubusercontent.com/44308207/88793191-d1873f00-d172-11ea-91f6-45143192b2e3.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/44308207/88794791-60955680-d175-11ea-96cc-f52939071b69.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/44308207/88796818-b15a7e80-d178-11ea-8ec4-770199ea0b71.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/44308207/88797055-17df9c80-d179-11ea-8c52-2bb526ffc5c6.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/44308207/88793046-9127c100-d172-11ea-9fa4-9083e9c7b078.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/44308207/88794412-d1883e80-d174-11ea-9a40-bd2cdb19f38c.jpg"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/44308207/88793177-cc29f480-d172-11ea-921a-1e0b6d7fb033.png"></code>
