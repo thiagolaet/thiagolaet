@@ -5,11 +5,11 @@ My name is Thiago, I'm a 20 years old Computer Science student from Rio de Janei
  - 📚 Studying Computer Science in Universidade Federal Fluminense.
  - 🌱 Learning more about Node and React.
  - ❤️ My passions are Music 🎵, Games 🎮 and Pizza 🍕.
- - 😄 Pronouns: he/him/his
 
 ### Tools/Technologies that I some have experience 🔧
 
 <code><img height="20" src="https://user-images.githubusercontent.com/44308207/88794111-53c43300-d174-11ea-99ee-2f85028b968b.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/44308207/89833366-4a08db00-db37-11ea-93c3-5914c44210a1.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/44308207/88794001-21b2d100-d174-11ea-929b-098a36fb7f64.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/44308207/88793034-8f5dfd80-d172-11ea-80af-8a0462251b2c.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/44308207/88793024-8c630d00-d172-11ea-85bc-7c1ca323db1c.png"></code>
