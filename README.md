@@ -3,8 +3,8 @@
 My name is Thiago, I'm a 20 years old Computer Science student from Rio de Janeiro - Brazil 🇧🇷 who loves to develop new ideas that can be useful to people.
 
  - 📚 Studying Computer Science in Universidade Federal Fluminense.
- - 🌱 Learning more about Vue and Django.
- - ❤️ My passions are Music 🎵, Games 🎮 and Pizza 🍕.
+ - 🌱 Learning more about VueJS and Django.
+ - ❤️ My passions are Music 🎵 and Games 🎮.
 
 ### Tools/Technologies that I some have experience 🔧
 
