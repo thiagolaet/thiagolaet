@@ -6,7 +6,7 @@ My name is Thiago, I'm a 20 years old Computer Science student from Rio de Janei
  - 🌱 Learning more about Angular.
  - ❤️ My passions are Music 🎵 and Games 🎮.
 
-### Tools/Technologies that I some have experience 🔧
+### Tools/Technologies that I have some experience 🔧
 
 <code><img height="20" src="https://user-images.githubusercontent.com/44308207/88794111-53c43300-d174-11ea-99ee-2f85028b968b.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/44308207/89833366-4a08db00-db37-11ea-93c3-5914c44210a1.png"></code>
