@@ -4,7 +4,6 @@ My name is Thiago, I'm a 21 years old Computer Science student from Rio de Janei
 
  - 📚 Studying Computer Science at Universidade Federal Fluminense.
  - 🌱 Learning more about Angular.
- - ❤️ My passions are Music 🎵 and Games 🎮.
 
 ### Tools/Technologies that I have some experience 🔧
 
